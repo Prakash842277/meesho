@@ -114,7 +114,7 @@ export const StateContext = ({ children }) => {
       }
     }
  return (
-        <Context.Provider 
+        <Context.Provider  
         value={{
           products,
           setProducts,
